@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "nombre": "Lemon pie",
+        "precio": 30000,
+        "descripcion": "Tarta de base sablée de vainilla, curd de limón y merengue italiano.",
+        "imagen": "img/lemonpie.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Brownie",
+        "precio": 40000,
+        "descripcion": "Torta de brownie de chocolate con dulce de leche repostero y una capa de crema chantilly.",
+        "imagen": "img/brownie.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Cheesecake",
+        "precio": 40000,
+        "descripcion": "Torta horneada con base de vainilla, crema de queso y salsa de frutos rojos.",
+        "imagen": "img/cheesecake.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Chocotorta",
+        "precio": 30000,
+        "descripcion": "Postre con capas de galletitas de chocolate y queso crema mezclado con dulce de leche.",
+        "imagen": "img/chocotorta.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Pastafrola",
+        "precio": 25000,
+        "descripcion": "Tarta de masa frola con dulce de membrillo.",
+        "imagen": "img/pastafrola.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Red Velvet",
+        "precio": 40000,
+        "descripcion": "orta aterciopelada con frosting de queso.",
+        "imagen": "img/redvelvet.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Matilda",
+        "precio": 50000,
+        "descripcion": "Torta de chocolate con ganache de chocolate",
+        "imagen": "img/matilda.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Carrot cake",
+        "precio": 30000,
+        "descripcion": "Torta de zanahoria con frosting de queso crema.",
+        "imagen": "img/carrotcake.jpg"
+    }
+
+
+]

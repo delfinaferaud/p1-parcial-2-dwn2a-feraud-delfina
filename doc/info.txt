@@ -1,0 +1,5 @@
+Tienda virtual de tortas hecha con HTML, CSS y JavaScript. 
+Librerías utilizadas: Bootstrap, Font Awesome, Toastify y Sweet. 
+Se agrega cada producto a un carrito de compras y se guarda en el localStorage, estos productos se pueden modificar individualmente o vaciar el carrito entero.
+
+Delfina Feraud - Diseño y Desarrollo Web 2024 - DWN2AP Programación I
