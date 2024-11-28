@@ -37,10 +37,10 @@ function mostrarProductos(productos = []) {
                   <p class="card-text">
                     ${descripcion}
                   </p>
-                  <a
-                    href="#" onclick="agregarProducto(${id})"         
+                  <button
+                    onclick="agregarProducto(${id})"         
                     class="btn btn-primary w-100 input agregar-torta"
-                    >Agregar</a
+                    >Agregar</button
                   >
                 </div>
               </div>
