@@ -148,7 +148,7 @@ function carritoHTML() {
 
         const total = document.createElement('p');
         total.classList.add('mt-5', 'fs-4');
-        total.innerHTML = `Total por ${calcularTotalProductos()} productos:<br> $${calcularTotalPrecio()}`
+        total.innerHTML = `Total por ${calcularTotalProductos() > 1 ? calcularTotalProductos() + ' productos' : calcularTotalProductos() + ' producto'}:<br> $${calcularTotalPrecio()}`
         cartelCarrito.appendChild(total)
         const finalizarCompra = document.createElement('button');
         finalizarCompra.classList.add('btn', 'btn-primary', 'fs-3', 'w-100');
